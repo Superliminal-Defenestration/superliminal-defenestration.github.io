@@ -1,65 +1,39 @@
-url: https://y7kim.github.io
+url: https://superliminal-defenestration.github.io/
 baseurl: ''
 
-# Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: SuperDef
+email: superliminaldefenestration@gmail.com
+description: "Website for Superliminal Defenestration's projects and accomplishments to be put on display."
 
 
-# Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Nathan
   pic: 1
-  position: Lead Designer
+  position: Lead Designer / Creator
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: discord
+      url: suop#6295
+    - title: github
+      url: https://github.com/Pengalu
 
-- name: Larry Parker
+- name: Henry
   pic: 2
-  position: Lead Marketer
+  position: Moral Support
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: discord
+      url: hue#2552
+    - title: github
+      url: https://github.com/hueblu
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: discord
+    url: suop#6295
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/Superliminal-Defenestration
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+  # - line: 3481 Melrose Place
+  # - line: Beverly Hills, CA 90210
 
-# Build settings
 markdown: kramdown
 permalink: pretty
